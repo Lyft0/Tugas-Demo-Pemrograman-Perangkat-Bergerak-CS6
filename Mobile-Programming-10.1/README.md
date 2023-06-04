@@ -2,4 +2,4 @@
 Mata Kuliah : Pemrograman Perangkat Bergerak  
    
 Screenshoot :<br>   
-<img src="/image/ss1-10.1.png">  
+<img src="/Mobile-Programming-10.1/image/ss1-10.1.png">  
