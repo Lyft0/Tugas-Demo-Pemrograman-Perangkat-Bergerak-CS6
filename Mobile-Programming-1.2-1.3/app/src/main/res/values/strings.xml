@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">thehackernews</string>
+    <string name="article_title">The Hacker News</string>
+    <string name="article_subtitle">Iranian Tortoiseshell Hackers Targeting Israeli Logistics Industry</string>
+    <string name="article_text">
+        <b>May 24, 2023</b> - At least eight websites associated with shipping, logistics, and financial services companies in Israel were targeted as part of a watering hole attack. \n\nTel Aviv-based cybersecurity company ClearSky attributed the attacks with low confidence to an Iranian threat actor tracked as Tortoiseshell, which is also called Crimson Sandstorm (previously Curium), Imperial Kitten, and TA456. \n\n
+        The infected sites collect preliminary user information through a script," ClearSky said in a technical report published Tuesday. Most of the impacted websites have been stripped of the rogue code. \n\n
+        Tortoiseshell is known to be active since at least July 2018, with early attacks targeting IT providers in Saudi Arabia. It has also been observed setting up fake hiring websites for U.S. military veterans in a bid to trick them into downloading remote access trojans. \n\n
+        That said, this is not the first time Iranian activity clusters have set their sights on the Israeli shipping sector with watering holes. \n\n
+        The attack method, also called strategic website compromises, works by infecting a website that's known to be commonly visited by a group of users or those within a specific industry to enable the distribution of malware.
+    </string>
+</resources>

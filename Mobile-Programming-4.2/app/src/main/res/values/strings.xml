@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">implementasi minggu 8</string>
+
+    <!-- EditText hint -->
+    <string name="edit_text_hint">Enter text here</string>
+
+    <!-- Button labels -->
+    <string name="text_button_label">Show Text</string>
+    <string name="check_button_label">Check Status</string>
+    <string name="radio_buttons_button_label">Check Selection</string>
+    <string name="spinner_button_label">Check Selection</string>
+
+    <!-- CheckBox label -->
+    <string name="check_box_label">Check me</string>
+
+    <!-- RadioButtons options -->
+    <string name="radio_button_option1">Option 1</string>
+    <string name="radio_button_option2">Option 2</string>
+    <string name="radio_button_option3">Option 3</string>
+
+    <!-- Spinner options -->
+    <string-array name="spinner_options">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <item>Option 4</item>
+        <item>Option 5</item>
+    </string-array>
+</resources>

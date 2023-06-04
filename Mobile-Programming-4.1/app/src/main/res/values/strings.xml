@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile-Programming-4.1</string>
+    <string name="bash">A quad-core Linux-box-on-USB-stick mimicking multiple trusted devices to deploy advanced pentest and IT automation payloads.</string>
+    <string name="rubber">A "flash drive" that types keystroke injection payloads into unsuspecting computers at incredible speeds. As seen on Mr. Robot.</string>
+    <string name="wp">The infamous rogue access point and WiFi pentest platform. Its simple web interface hosts an app ecosystem. As seen on Silicon Valley.</string>
+
+</resources>
