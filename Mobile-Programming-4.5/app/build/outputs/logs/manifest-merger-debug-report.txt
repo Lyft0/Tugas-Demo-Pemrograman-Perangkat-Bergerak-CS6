@@ -1,0 +1,314 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] /home/lyft/.gradle/caches/transforms-3/dd75f517fd68c29ba40b90dc2b21c22c/transformed/jetified-viewbinding-7.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] /home/lyft/.gradle/caches/transforms-3/7326a45ad6f3e70ebc07197d318ce079/transformed/navigation-ui-ktx-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.2] /home/lyft/.gradle/caches/transforms-3/1ea574d397ab640943ec564c6cf298db/transformed/navigation-ui-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.7.0-alpha02] /home/lyft/.gradle/caches/transforms-3/d79b7f45f4a272d94c0750c684d21951/transformed/material-1.7.0-alpha02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/lyft/.gradle/caches/transforms-3/f05426452016d4b5830d2b2a2f19b1d4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/lyft/.gradle/caches/transforms-3/9cc37e16855a5378ce1160536d917918/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /home/lyft/.gradle/caches/transforms-3/b557606e4fbdad45ab4d300c66516923/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lyft/.gradle/caches/transforms-3/3b0a9a8cc33fc43253fa8c83d5d9847a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] /home/lyft/.gradle/caches/transforms-3/6ce986f59714df3d6f3006619cc945a7/transformed/navigation-fragment-ktx-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.2] /home/lyft/.gradle/caches/transforms-3/68443894c1f73fe39076a8a188b7c969/transformed/navigation-fragment-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.2] /home/lyft/.gradle/caches/transforms-3/e266480a32e8ba0b709ed1bcc8babd99/transformed/jetified-fragment-ktx-1.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.2] /home/lyft/.gradle/caches/transforms-3/e98614acb2021897c8e56980805ba694/transformed/fragment-1.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] /home/lyft/.gradle/caches/transforms-3/4b5fe2509e5f7f6581c63f844dd07005/transformed/navigation-runtime-ktx-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] /home/lyft/.gradle/caches/transforms-3/368726f7220ad373f92e26f3e8960947/transformed/navigation-runtime-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/lyft/.gradle/caches/transforms-3/96b8e56c6de9922a0660eab3f6eeccf9/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /home/lyft/.gradle/caches/transforms-3/4985c117a30f70491ac2be4e59e17868/transformed/jetified-activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lyft/.gradle/caches/transforms-3/707a47cc05070b96d6486b26a5bb23be/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lyft/.gradle/caches/transforms-3/781d2657eb239a23097eb1a3c04caba1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/lyft/.gradle/caches/transforms-3/e09c87a7fa795599530e380e0f17fa8d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] /home/lyft/.gradle/caches/transforms-3/2a5c97f14206a16b5c4fec7bd064079e/transformed/navigation-common-ktx-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.2] /home/lyft/.gradle/caches/transforms-3/4f373ca4955ae0d1c88af7684ffbbd6d/transformed/navigation-common-2.5.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/lyft/.gradle/caches/transforms-3/d000a3eda72518a5f8ff7e824f137e7a/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/lyft/.gradle/caches/transforms-3/db1b93d4eaa4adb5108818d3dc211ad1/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/lyft/.gradle/caches/transforms-3/d1262cc49fd9e7ab6864aa6db0ecb9ca/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/lyft/.gradle/caches/transforms-3/360bd7c56e98dc9f7a1aba6c05f66a80/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/lyft/.gradle/caches/transforms-3/754463dacb2661608c445efbc3a87c53/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/lyft/.gradle/caches/transforms-3/d3b660a58153a30bfdc9a231fd8b3597/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lyft/.gradle/caches/transforms-3/5f4b2e8993e556b456cae9251bcc65e1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lyft/.gradle/caches/transforms-3/3619e14b0184bda75f181d67d6956ae8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lyft/.gradle/caches/transforms-3/52a85dd9108c8dfb618002515ee55ac6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lyft/.gradle/caches/transforms-3/4fa0345145f35e270cca722697f7cdfa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lyft/.gradle/caches/transforms-3/ae9a08cf34232ab861b7edeb9b52041b/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lyft/.gradle/caches/transforms-3/28f966d1ecaf45dd2c41c4debaa39e17/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/lyft/.gradle/caches/transforms-3/6221d1304202e32b8e4d3a1c885db6d3/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /home/lyft/.gradle/caches/transforms-3/aa101d40212820a3183dd57c3fe58605/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/lyft/.gradle/caches/transforms-3/5279d1fd347b10fe1fc52c265f2f3c36/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lyft/.gradle/caches/transforms-3/69ae42136b200db05e09525943f99b29/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/lyft/.gradle/caches/transforms-3/db59666ba9f6e4ddc854ffa3228e798b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/lyft/.gradle/caches/transforms-3/d39e769d631f71784e4c7bc02e9928ec/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/lyft/.gradle/caches/transforms-3/5ac8cb93e71210cd74f83a77028dbb53/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/lyft/.gradle/caches/transforms-3/c26a9fafaf45f623cc7ce46d51b0c2af/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lyft/.gradle/caches/transforms-3/6491177e919ea7ad73e85c9175d6e262/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lyft/.gradle/caches/transforms-3/ecc67c5b870d27d03ce28b2b07b359a8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lyft/.gradle/caches/transforms-3/011d3921b8853fb63b98a977aa555190/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lyft/.gradle/caches/transforms-3/dcea2e16cacaeccf0ab2107532b0fee0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lyft/.gradle/caches/transforms-3/92e59a516a00669a1b9b861a91c85db7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/lyft/.gradle/caches/transforms-3/e0e2c5a87e7929e561be5cb79dc35ee7/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/lyft/.gradle/caches/transforms-3/58fe5ea91a815738521564c4e61c16ee/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/lyft/.gradle/caches/transforms-3/c3b00a2274dac38db17a5b34520389ae/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lyft/.gradle/caches/transforms-3/6254bdd6e5048b6633ab77b34bb2bfe0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lyft/.gradle/caches/transforms-3/11e5e3390b175443a43b481c46f7d521/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lyft/.gradle/caches/transforms-3/46ecde75de8ea837a1a56dbdeff79a6b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/lyft/.gradle/caches/transforms-3/ce7c3af14fc82406c6bfd26ed1065f2d/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/lyft/.gradle/caches/transforms-3/5e5e2b7ca077e5792df86d2b17d1fc0d/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:17:1-37:12
+INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:17:1-37:12
+	package
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:18:5-35
+		INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:17:1-37:12
+		INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:20:5-35:19
+MERGED from [com.google.android.material:material:1.7.0-alpha02] /home/lyft/.gradle/caches/transforms-3/d79b7f45f4a272d94c0750c684d21951/transformed/material-1.7.0-alpha02/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0-alpha02] /home/lyft/.gradle/caches/transforms-3/d79b7f45f4a272d94c0750c684d21951/transformed/material-1.7.0-alpha02/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/lyft/.gradle/caches/transforms-3/f05426452016d4b5830d2b2a2f19b1d4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/lyft/.gradle/caches/transforms-3/f05426452016d4b5830d2b2a2f19b1d4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/lyft/.gradle/caches/transforms-3/db59666ba9f6e4ddc854ffa3228e798b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/lyft/.gradle/caches/transforms-3/db59666ba9f6e4ddc854ffa3228e798b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lyft/.gradle/caches/transforms-3/ecc67c5b870d27d03ce28b2b07b359a8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lyft/.gradle/caches/transforms-3/ecc67c5b870d27d03ce28b2b07b359a8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lyft/.gradle/caches/transforms-3/011d3921b8853fb63b98a977aa555190/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lyft/.gradle/caches/transforms-3/011d3921b8853fb63b98a977aa555190/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:26:9-43
+activity#com.example.wordsapp.MainActivity
+ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:27:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.2] /home/lyft/.gradle/caches/transforms-3/dd75f517fd68c29ba40b90dc2b21c22c/transformed/jetified-viewbinding-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] /home/lyft/.gradle/caches/transforms-3/dd75f517fd68c29ba40b90dc2b21c22c/transformed/jetified-viewbinding-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] /home/lyft/.gradle/caches/transforms-3/7326a45ad6f3e70ebc07197d318ce079/transformed/navigation-ui-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.2] /home/lyft/.gradle/caches/transforms-3/7326a45ad6f3e70ebc07197d318ce079/transformed/navigation-ui-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.2] /home/lyft/.gradle/caches/transforms-3/1ea574d397ab640943ec564c6cf298db/transformed/navigation-ui-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.2] /home/lyft/.gradle/caches/transforms-3/1ea574d397ab640943ec564c6cf298db/transformed/navigation-ui-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0-alpha02] /home/lyft/.gradle/caches/transforms-3/d79b7f45f4a272d94c0750c684d21951/transformed/material-1.7.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0-alpha02] /home/lyft/.gradle/caches/transforms-3/d79b7f45f4a272d94c0750c684d21951/transformed/material-1.7.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/lyft/.gradle/caches/transforms-3/f05426452016d4b5830d2b2a2f19b1d4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/lyft/.gradle/caches/transforms-3/f05426452016d4b5830d2b2a2f19b1d4/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/lyft/.gradle/caches/transforms-3/9cc37e16855a5378ce1160536d917918/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/lyft/.gradle/caches/transforms-3/9cc37e16855a5378ce1160536d917918/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /home/lyft/.gradle/caches/transforms-3/b557606e4fbdad45ab4d300c66516923/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /home/lyft/.gradle/caches/transforms-3/b557606e4fbdad45ab4d300c66516923/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lyft/.gradle/caches/transforms-3/3b0a9a8cc33fc43253fa8c83d5d9847a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/lyft/.gradle/caches/transforms-3/3b0a9a8cc33fc43253fa8c83d5d9847a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] /home/lyft/.gradle/caches/transforms-3/6ce986f59714df3d6f3006619cc945a7/transformed/navigation-fragment-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.2] /home/lyft/.gradle/caches/transforms-3/6ce986f59714df3d6f3006619cc945a7/transformed/navigation-fragment-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.2] /home/lyft/.gradle/caches/transforms-3/68443894c1f73fe39076a8a188b7c969/transformed/navigation-fragment-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.2] /home/lyft/.gradle/caches/transforms-3/68443894c1f73fe39076a8a188b7c969/transformed/navigation-fragment-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.2] /home/lyft/.gradle/caches/transforms-3/e266480a32e8ba0b709ed1bcc8babd99/transformed/jetified-fragment-ktx-1.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.2] /home/lyft/.gradle/caches/transforms-3/e266480a32e8ba0b709ed1bcc8babd99/transformed/jetified-fragment-ktx-1.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.2] /home/lyft/.gradle/caches/transforms-3/e98614acb2021897c8e56980805ba694/transformed/fragment-1.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.2] /home/lyft/.gradle/caches/transforms-3/e98614acb2021897c8e56980805ba694/transformed/fragment-1.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] /home/lyft/.gradle/caches/transforms-3/4b5fe2509e5f7f6581c63f844dd07005/transformed/navigation-runtime-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.2] /home/lyft/.gradle/caches/transforms-3/4b5fe2509e5f7f6581c63f844dd07005/transformed/navigation-runtime-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] /home/lyft/.gradle/caches/transforms-3/368726f7220ad373f92e26f3e8960947/transformed/navigation-runtime-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.2] /home/lyft/.gradle/caches/transforms-3/368726f7220ad373f92e26f3e8960947/transformed/navigation-runtime-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/lyft/.gradle/caches/transforms-3/96b8e56c6de9922a0660eab3f6eeccf9/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/lyft/.gradle/caches/transforms-3/96b8e56c6de9922a0660eab3f6eeccf9/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /home/lyft/.gradle/caches/transforms-3/4985c117a30f70491ac2be4e59e17868/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /home/lyft/.gradle/caches/transforms-3/4985c117a30f70491ac2be4e59e17868/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lyft/.gradle/caches/transforms-3/707a47cc05070b96d6486b26a5bb23be/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/lyft/.gradle/caches/transforms-3/707a47cc05070b96d6486b26a5bb23be/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lyft/.gradle/caches/transforms-3/781d2657eb239a23097eb1a3c04caba1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/lyft/.gradle/caches/transforms-3/781d2657eb239a23097eb1a3c04caba1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lyft/.gradle/caches/transforms-3/e09c87a7fa795599530e380e0f17fa8d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/lyft/.gradle/caches/transforms-3/e09c87a7fa795599530e380e0f17fa8d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] /home/lyft/.gradle/caches/transforms-3/2a5c97f14206a16b5c4fec7bd064079e/transformed/navigation-common-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.2] /home/lyft/.gradle/caches/transforms-3/2a5c97f14206a16b5c4fec7bd064079e/transformed/navigation-common-ktx-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.2] /home/lyft/.gradle/caches/transforms-3/4f373ca4955ae0d1c88af7684ffbbd6d/transformed/navigation-common-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.2] /home/lyft/.gradle/caches/transforms-3/4f373ca4955ae0d1c88af7684ffbbd6d/transformed/navigation-common-2.5.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/lyft/.gradle/caches/transforms-3/d000a3eda72518a5f8ff7e824f137e7a/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/lyft/.gradle/caches/transforms-3/d000a3eda72518a5f8ff7e824f137e7a/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/lyft/.gradle/caches/transforms-3/db1b93d4eaa4adb5108818d3dc211ad1/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/lyft/.gradle/caches/transforms-3/db1b93d4eaa4adb5108818d3dc211ad1/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/lyft/.gradle/caches/transforms-3/d1262cc49fd9e7ab6864aa6db0ecb9ca/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/lyft/.gradle/caches/transforms-3/d1262cc49fd9e7ab6864aa6db0ecb9ca/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/lyft/.gradle/caches/transforms-3/360bd7c56e98dc9f7a1aba6c05f66a80/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/lyft/.gradle/caches/transforms-3/360bd7c56e98dc9f7a1aba6c05f66a80/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/lyft/.gradle/caches/transforms-3/754463dacb2661608c445efbc3a87c53/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/lyft/.gradle/caches/transforms-3/754463dacb2661608c445efbc3a87c53/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/lyft/.gradle/caches/transforms-3/d3b660a58153a30bfdc9a231fd8b3597/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/lyft/.gradle/caches/transforms-3/d3b660a58153a30bfdc9a231fd8b3597/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lyft/.gradle/caches/transforms-3/5f4b2e8993e556b456cae9251bcc65e1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/lyft/.gradle/caches/transforms-3/5f4b2e8993e556b456cae9251bcc65e1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lyft/.gradle/caches/transforms-3/3619e14b0184bda75f181d67d6956ae8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/lyft/.gradle/caches/transforms-3/3619e14b0184bda75f181d67d6956ae8/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lyft/.gradle/caches/transforms-3/52a85dd9108c8dfb618002515ee55ac6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/lyft/.gradle/caches/transforms-3/52a85dd9108c8dfb618002515ee55ac6/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lyft/.gradle/caches/transforms-3/4fa0345145f35e270cca722697f7cdfa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/lyft/.gradle/caches/transforms-3/4fa0345145f35e270cca722697f7cdfa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lyft/.gradle/caches/transforms-3/ae9a08cf34232ab861b7edeb9b52041b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/lyft/.gradle/caches/transforms-3/ae9a08cf34232ab861b7edeb9b52041b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lyft/.gradle/caches/transforms-3/28f966d1ecaf45dd2c41c4debaa39e17/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/lyft/.gradle/caches/transforms-3/28f966d1ecaf45dd2c41c4debaa39e17/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/lyft/.gradle/caches/transforms-3/6221d1304202e32b8e4d3a1c885db6d3/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/lyft/.gradle/caches/transforms-3/6221d1304202e32b8e4d3a1c885db6d3/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/lyft/.gradle/caches/transforms-3/aa101d40212820a3183dd57c3fe58605/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/lyft/.gradle/caches/transforms-3/aa101d40212820a3183dd57c3fe58605/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/lyft/.gradle/caches/transforms-3/5279d1fd347b10fe1fc52c265f2f3c36/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/lyft/.gradle/caches/transforms-3/5279d1fd347b10fe1fc52c265f2f3c36/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lyft/.gradle/caches/transforms-3/69ae42136b200db05e09525943f99b29/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/lyft/.gradle/caches/transforms-3/69ae42136b200db05e09525943f99b29/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/lyft/.gradle/caches/transforms-3/db59666ba9f6e4ddc854ffa3228e798b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/lyft/.gradle/caches/transforms-3/db59666ba9f6e4ddc854ffa3228e798b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/lyft/.gradle/caches/transforms-3/d39e769d631f71784e4c7bc02e9928ec/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/lyft/.gradle/caches/transforms-3/d39e769d631f71784e4c7bc02e9928ec/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/lyft/.gradle/caches/transforms-3/5ac8cb93e71210cd74f83a77028dbb53/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/lyft/.gradle/caches/transforms-3/5ac8cb93e71210cd74f83a77028dbb53/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/lyft/.gradle/caches/transforms-3/c26a9fafaf45f623cc7ce46d51b0c2af/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/lyft/.gradle/caches/transforms-3/c26a9fafaf45f623cc7ce46d51b0c2af/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lyft/.gradle/caches/transforms-3/6491177e919ea7ad73e85c9175d6e262/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/lyft/.gradle/caches/transforms-3/6491177e919ea7ad73e85c9175d6e262/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lyft/.gradle/caches/transforms-3/ecc67c5b870d27d03ce28b2b07b359a8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/lyft/.gradle/caches/transforms-3/ecc67c5b870d27d03ce28b2b07b359a8/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lyft/.gradle/caches/transforms-3/011d3921b8853fb63b98a977aa555190/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lyft/.gradle/caches/transforms-3/011d3921b8853fb63b98a977aa555190/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lyft/.gradle/caches/transforms-3/dcea2e16cacaeccf0ab2107532b0fee0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/lyft/.gradle/caches/transforms-3/dcea2e16cacaeccf0ab2107532b0fee0/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lyft/.gradle/caches/transforms-3/92e59a516a00669a1b9b861a91c85db7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/lyft/.gradle/caches/transforms-3/92e59a516a00669a1b9b861a91c85db7/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/lyft/.gradle/caches/transforms-3/e0e2c5a87e7929e561be5cb79dc35ee7/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/lyft/.gradle/caches/transforms-3/e0e2c5a87e7929e561be5cb79dc35ee7/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/lyft/.gradle/caches/transforms-3/58fe5ea91a815738521564c4e61c16ee/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/lyft/.gradle/caches/transforms-3/58fe5ea91a815738521564c4e61c16ee/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/lyft/.gradle/caches/transforms-3/c3b00a2274dac38db17a5b34520389ae/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/lyft/.gradle/caches/transforms-3/c3b00a2274dac38db17a5b34520389ae/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lyft/.gradle/caches/transforms-3/6254bdd6e5048b6633ab77b34bb2bfe0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/lyft/.gradle/caches/transforms-3/6254bdd6e5048b6633ab77b34bb2bfe0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lyft/.gradle/caches/transforms-3/11e5e3390b175443a43b481c46f7d521/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/lyft/.gradle/caches/transforms-3/11e5e3390b175443a43b481c46f7d521/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lyft/.gradle/caches/transforms-3/46ecde75de8ea837a1a56dbdeff79a6b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/lyft/.gradle/caches/transforms-3/46ecde75de8ea837a1a56dbdeff79a6b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lyft/.gradle/caches/transforms-3/ce7c3af14fc82406c6bfd26ed1065f2d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/lyft/.gradle/caches/transforms-3/ce7c3af14fc82406c6bfd26ed1065f2d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/lyft/.gradle/caches/transforms-3/5e5e2b7ca077e5792df86d2b17d1fc0d/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/lyft/.gradle/caches/transforms-3/5e5e2b7ca077e5792df86d2b17d1fc0d/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+		ADDED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+		INJECTED from /home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/lyft/.gradle/caches/transforms-3/db59666ba9f6e4ddc854ffa3228e798b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/lyft/.gradle/caches/transforms-3/db59666ba9f6e4ddc854ffa3228e798b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lyft/.gradle/caches/transforms-3/011d3921b8853fb63b98a977aa555190/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/lyft/.gradle/caches/transforms-3/011d3921b8853fb63b98a977aa555190/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.example.wordsapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.example.wordsapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/lyft/.gradle/caches/transforms-3/db59666ba9f6e4ddc854ffa3228e798b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/lyft/.gradle/caches/transforms-3/db59666ba9f6e4ddc854ffa3228e798b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/lyft/.gradle/caches/transforms-3/db59666ba9f6e4ddc854ffa3228e798b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

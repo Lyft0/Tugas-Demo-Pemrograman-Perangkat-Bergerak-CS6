@@ -1,0 +1,111 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3     Copyright (C) 2020 The Android Open Source Project
+4
+5     Licensed under the Apache License, Version 2.0 (the "License");
+6     you may not use this file except in compliance with the License.
+7     You may obtain a copy of the License at
+8
+9          http://www.apache.org/licenses/LICENSE-2.0
+10
+11     Unless required by applicable law or agreed to in writing, software
+12     distributed under the License is distributed on an "AS IS" BASIS,
+13     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14     See the License for the specific language governing permissions and
+15     limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.wordsapp"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="19"
+23-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="33" />
+24-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml
+25
+26    <permission
+26-->[androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+27        android:name="com.example.wordsapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.example.wordsapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:20:5-35:19
+33        android:allowBackup="true"
+33-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:21:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.9.0] /home/lyft/.gradle/caches/transforms-3/e6653309760dc07eaefb599f36b9e70a/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+35        android:debuggable="true"
+36        android:icon="@mipmap/ic_launcher"
+36-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:22:9-43
+37        android:label="@string/app_name"
+37-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:23:9-41
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:24:9-54
+39        android:supportsRtl="true"
+39-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:25:9-35
+40        android:testOnly="true"
+41        android:theme="@style/Theme.Words" >
+41-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:26:9-43
+42        <activity
+42-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:27:9-34:20
+43            android:name="com.example.wordsapp.MainActivity"
+43-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:27:19-47
+44            android:exported="true" >
+44-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:28:13-36
+45            <intent-filter>
+45-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:29:13-33:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:30:17-69
+46-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:30:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:32:17-77
+48-->/home/lyft/College/Pemrograman Perangkat Bergerak/Tugas/tugas_demo/Mobile-Programming-4.5/app/src/main/AndroidManifest.xml:32:27-74
+49            </intent-filter>
+50        </activity>
+51
+52        <uses-library
+52-->[androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:25:9-27:40
+53            android:name="androidx.window.extensions"
+53-->[androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:26:13-54
+54            android:required="false" />
+54-->[androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:27:13-37
+55        <uses-library
+55-->[androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:28:9-30:40
+56            android:name="androidx.window.sidecar"
+56-->[androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:29:13-51
+57            android:required="false" />
+57-->[androidx.window:window:1.0.0] /home/lyft/.gradle/caches/transforms-3/ad7f57f830a464790502993b5886fc67/transformed/jetified-window-1.0.0/AndroidManifest.xml:30:13-37
+58
+59        <provider
+59-->[androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+60            android:name="androidx.startup.InitializationProvider"
+60-->[androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+61            android:authorities="com.example.wordsapp.androidx-startup"
+61-->[androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+62            android:exported="false" >
+62-->[androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+63            <meta-data
+63-->[androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+64                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+64-->[androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+65                android:value="androidx.startup" />
+65-->[androidx.emoji2:emoji2:1.2.0] /home/lyft/.gradle/caches/transforms-3/1a252abc2865360de0c9b026184e20c1/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+66            <meta-data
+66-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/lyft/.gradle/caches/transforms-3/db59666ba9f6e4ddc854ffa3228e798b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+67                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+67-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/lyft/.gradle/caches/transforms-3/db59666ba9f6e4ddc854ffa3228e798b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+68                android:value="androidx.startup" />
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/lyft/.gradle/caches/transforms-3/db59666ba9f6e4ddc854ffa3228e798b/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+69        </provider>
+70    </application>
+71
+72</manifest>
