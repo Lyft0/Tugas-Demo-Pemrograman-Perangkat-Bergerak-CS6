@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hacker News Website"
+        android:gravity="center"
+        android:layout_marginBottom="50dp"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:id="@+id/hell"/>
+
+
+    <Button
+        android:id="@+id/openUrlButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:onClick="openHk"
+        android:text="The Hacker News"
+        android:layout_below="@+id/hell"/>
+
+    <Button
+        android:id="@+id/openGoogleButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wired Hacker News"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/openUrlButton"
+        android:onClick="openWr" />
+
+</RelativeLayout>
